@@ -16,4 +16,5 @@ O objetivo deste projeto é desenvolver um solver com fins educacionais.
 - Arthur H. S. Cruz ([thuzax](https://github.com/thuzax))
 - Lorena K. B. Tavares ([quionee](https://github.com/quionee))
 - Mayron C. O. Moreira ([mayronmoreira](https://github.com/mayronmoreira))
+- Nicolas Porto Campana ([NicolasCampana](https://github.com/NicolasCampana))
 - Wesley H. B. Nunes ([WesleyHBNunes](https://github.com/WesleyHBNunes))
